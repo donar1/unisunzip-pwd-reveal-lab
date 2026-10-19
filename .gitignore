@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+*.log
+*.exe
+*.dll
+UNISUnzip_patched/
+dist_pkg/
+pwd_data.js
+密码台账.html
+密码台账/
+ledger/
